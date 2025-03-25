@@ -1,6 +1,6 @@
 body
 {
- background: rgb(22, 21, 20);
+ background: rgb(50, 6, 243);
  font-size: 16px;
 }
 
@@ -28,12 +28,13 @@ ul li a p
 {
   width: 75%;
   list-style-type: none;
-  background: #E94016;
+  background: #0026ff;
   border-bottom: solid thin white;
-  padding: .3em 1em .3em;
+  padding: .8em 1em .8em;
   text-decoration: none;
   color: white;
-  font-size: 13px;
+  font-size: 20px;
+  text-align: center;
 }
 
 
@@ -41,12 +42,12 @@ h1
 {
   padding-bottom: 2em;
   border-bottom: none;
-  font-size: 16px;
+  font-size: 20px;
   margin: 0;
   padding: 5px 0 .3em;
   line-height: 32px;
   text-align: center;
-  color: black;
+  color: rgb(0, 0, 0);
 }
 
 h3
